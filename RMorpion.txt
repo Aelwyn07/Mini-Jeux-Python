@@ -1,0 +1,26 @@
+Regles du jeu du Morpion
+
+. Une partie est compose de quatres manches
+. Chaque participant commence deux manches
+. Un joueur gagne un point lorsqu'il gagne une manche
+. Un joueur gagne une partie si il gagne plus de manches que son adversaire
+. Si chaque joueur gagne deux manches, alors il y a egalite
+
+Principe du jeu
+
+. On dispose d'une grille de trois lignes et de trois colonnes. 
+  Chaque joueur se voit attribue un symbole: 
+					- Un rond O
+					- Ou une croix X
+
+. Chacun leur tour, les joueurs doivent inscrirent leur symbole dans l'une des cases.
+
+. Pour se reperer au niveau des cases, les chiffres 1, 2 et 3 representent les colonnes et les lettres a, b et c representent les lignes.
+Au debut de la partie, il est donc possible de jouer en "a1","a2","a3","b1","b2","b3","c1","c2" et "c3"
+Il n'est pas possible de jouer dans une case contenant deja un symbole !
+
+. Si un joueur arrive a aligner trois de ses symboles, il gagne la partie.
+Il est possible d'aligner ses symboles a l'horizontale, a la verticale ou en diagonale.
+
+. On ne peut pas sauter son tour.
+. Une manche s'arrete dès lors qu'il y a un gagnant, et la prochaine peut commencer !

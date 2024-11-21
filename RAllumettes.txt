@@ -1,0 +1,13 @@
+Regles du jeux des Allumettes
+
+. Une partie est compose de deux manches
+. Chaque participant commence une manche
+. Un joueur gagne un point lorsqu'il gagne une manche
+. Un joueur gagne une partie si il gagne les deux manches
+. Si chaque joueur gagne une manche, alors il y a egalite
+
+Principe du jeu :
+
+. On dispose d'un tas de 20 allumettes. Chacun leur tour, les joueurs ont le droit de retirer une, deux ou trois allumettes. 
+Le joueur qui gagne est celui qui ne recupere pas la derniere allumette.
+. Une manche s'arrete des lors qu'il n'y a plus d'allumettes.

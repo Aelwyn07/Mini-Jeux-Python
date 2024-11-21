@@ -1,0 +1,17 @@
+Regles du jeu des devinettes:
+
+. Une partie est compose de deux manches.
+. Les roles des joueurs sont inverses lors de la deuxieme manche.
+. Un participant gagne une partie si il devine le nombre en moins de proposition que son adversaire.
+. Si chaque joueur devine le nombre de l'autre en le meme noombre de proposition, alors il y a egalite.
+. Si il y a egalite, chaque joueur gagne un point.
+
+Principes du jeu:
+
+. Le premier joueur choisi un nombre entre 1 et 100.
+. Ce nombre ne doit pas etre connu du deuxieme joueur.
+. L'objectif du deuxieme joueur est de deviner le nombre du premier joueur en un minimum de proposition(s).
+. A chaque proposition du deuxieme joueur, le premier doit lui repondre si ce nombre est egal au sien.
+. Pour repondre, il donne un indice sur la position de son nombre a l'autre joueur (parmi les 3 choix proposes)
+. Si, durant la partie, le premier joueur ment sur la position de son nombre, le deuxieme joueur verra son nombre de propositions descendre a 0 (et a donc de grandes chances de gagner la manche).
+. Si les deux joueurs ont menti, il y aura egalite et chaque joueur gagnera un point.

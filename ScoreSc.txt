@@ -1,0 +1,19 @@
+____________________________________________
+
+*** Nombre de victoire(s) au Morpion ***
+
+Joueur 1 : 0 
+Joueur 2 : 0 
+____________________________________________
+
+*** Nombre de victoire(s) aux Devinettes ***
+
+Joueur 1 : 0 
+Joueur 2 : 0 
+____________________________________________
+
+*** Nombre de victoire(s) aux Allumettes ***
+
+Joueur 1 : 0 
+Joueur 2 : 0 
+____________________________________________
